@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dzzzzzzzzz/cypress/issues"
   },
-  "homepage": "https://github.com/dzzzzzzzzz/cypress#readme"
+  "homepage": "https://github.com/dzzzzzzzzz/cypress#readme",
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
 }
