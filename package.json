@@ -1,0 +1,22 @@
+{
+  "name": "cy_learn",
+  "version": "1.0.0",
+  "description": "cypress learning thingie",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzzzzzzzzz/cypress.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "dzzzzzzzzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzzzzzzzzz/cypress/issues"
+  },
+  "homepage": "https://github.com/dzzzzzzzzz/cypress#readme"
+}
